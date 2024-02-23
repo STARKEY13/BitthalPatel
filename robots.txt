@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://starkey13.github.io/sitemap.xml
+Host: https://starkey13.github.io
